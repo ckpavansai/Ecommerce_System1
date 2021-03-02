@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{54FCE67E-EDE2-41DD-9F71-6CBBDA54BEA4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomerDAO/OrderDAO.cs">
+    <Files>
+      <File FileName="CustomerDAO/Program.cs" Line="83" Column="1" />
+      <File FileName="ProductOrder.Model/Order.cs" Line="8" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CustomerDAL" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OrderDAO FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ProductOrder.Model FirstBuild="True" />
+</Properties>
